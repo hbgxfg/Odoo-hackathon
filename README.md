@@ -18,4 +18,4 @@ User Roles: Guests (view-only), Registered Users (interact), Admins (moderate)
 Team Members:
 Kunal Nemade     email:kunalnemade29@gmail.com
 Sarvesh Kadam    email:kadamsarvesh84@gmail.com
-Yahya Moosa      email:yahyamoosa1181@gmail.com
+Yahya Moosa      email:yahyamoosa9769@gmail.com
